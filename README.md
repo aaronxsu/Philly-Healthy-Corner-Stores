@@ -3,6 +3,7 @@
 Measuring and quantifying access to healthy food is a hot topic right now in GIS, particularly in Philadelphia. Using the Healthy Corner Store Locations shapefile found on OpenDataPhilly, I created one map of the City of Philadelphia showing census tracts that are over-served and underserved by Healthy Corner Stores, based on the population of each tract.
 
 Use the interactive version of this resulting map:
+
 https://aronxoxo.github.io/Philly-Healthy-Corner-Stores/
 
 ![Result Map](https://raw.githubusercontent.com/aronxoxo/Philly-Healthy-Corner-Stores/master/image/result_map.jpg "Result Map")
