@@ -4,7 +4,7 @@ Measuring and quantifying access to healthy food is a hot topic right now in GIS
 
 Use the interactive version of this resulting map:
 
-https://aronxoxo.github.io/Philly-Healthy-Corner-Stores/
+https://aaronxsu.github.io/Philly-Healthy-Corner-Stores/
 
 ![Result Map](https://raw.githubusercontent.com/aronxoxo/Philly-Healthy-Corner-Stores/master/image/result_map.jpg "Result Map")
 
